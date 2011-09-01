@@ -1,4 +1,4 @@
-1314838755
+1314843716
 Application	/Users/camilo/rails_projects/sample_app/config/application.rb	  class Application 
 ApplicationController	/Users/camilo/rails_projects/sample_app/app/controllers/application_controller.rb	class ApplicationController 
 ApplicationHelper	/Users/camilo/rails_projects/sample_app/app/helpers/application_helper.rb	module ApplicationHelper
@@ -7,6 +7,7 @@ PagesHelper	/Users/camilo/rails_projects/sample_app/app/helpers/pages_helper.rb	
 SampleApp	/Users/camilo/rails_projects/sample_app/config/application.rb	module SampleApp
 Str	/Users/camilo/rails_projects/sample_app/public/javascripts/prototype.js	function Str(key, holder, stack)
 Type	/Users/camilo/rails_projects/sample_app/public/javascripts/prototype.js	function Type(o)
+about	/Users/camilo/rails_projects/sample_app/app/controllers/pages_controller.rb	  def about
 abs	/Users/camilo/rails_projects/sample_app/public/javascripts/prototype.js	function abs()
 absolutize	/Users/camilo/rails_projects/sample_app/public/javascripts/prototype.js	function absolutize(element)
 addMethods	/Users/camilo/rails_projects/sample_app/public/javascripts/prototype.js	function addMethods(source)
