@@ -1,4 +1,4 @@
-1314843716
+1314844668
 Application	/Users/camilo/rails_projects/sample_app/config/application.rb	  class Application 
 ApplicationController	/Users/camilo/rails_projects/sample_app/app/controllers/application_controller.rb	class ApplicationController 
 ApplicationHelper	/Users/camilo/rails_projects/sample_app/app/helpers/application_helper.rb	module ApplicationHelper
